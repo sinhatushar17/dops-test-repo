@@ -1,0 +1,2 @@
+we were successfully able to make hanges in files and restore changes in them (using git stash and git stash pop):,switch between branches in order to work.
+
