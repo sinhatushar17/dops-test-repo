@@ -1,0 +1,3 @@
+this is the develop text which is in develop branch
+but we want this file to be available in master branchh aswell, 
+so well use "git merge"
